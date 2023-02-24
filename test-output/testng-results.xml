@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-21T17:24:37Z" name="Default suite" finished-at="2023-02-21T17:25:14Z" duration-ms="36487">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T17:24:37Z" name="Default test" finished-at="2023-02-21T17:25:14Z" duration-ms="36487">
+      <class name="com.webmath.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:24:37Z" name="setUp" finished-at="2023-02-21T17:24:56Z" duration-ms="18789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:24:56Z" name="verifyHomePageTitleTest" finished-at="2023-02-21T17:24:56Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:24:56Z" name="tearDown" finished-at="2023-02-21T17:24:57Z" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:24:57Z" name="setUp" finished-at="2023-02-21T17:25:03Z" duration-ms="6332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="WebMathLogoImageTest()[pri:2, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:03Z" name="WebMathLogoImageTest" finished-at="2023-02-21T17:25:03Z" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebMathLogoImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:03Z" name="tearDown" finished-at="2023-02-21T17:25:03Z" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:03Z" name="setUp" finished-at="2023-02-21T17:25:09Z" duration-ms="6162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="simpleInterestTest()[pri:3, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:09Z" name="simpleInterestTest" finished-at="2023-02-21T17:25:13Z" duration-ms="3616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleInterestTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:13Z" name="tearDown" finished-at="2023-02-21T17:25:14Z" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webmath.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
