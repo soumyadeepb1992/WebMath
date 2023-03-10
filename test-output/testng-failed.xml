@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.webmath.qa.testcases.HomePageTest">
+      <class name="com.webmath.qa.testcases.MathForEveryoneLinkTest">
         <methods>
-          <include name="verifyHomePageTitleTest"/>
+          <include name="volumeConversionTest"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.webmath.qa.testcases.HomePageTest -->
+      </class> <!-- com.webmath.qa.testcases.MathForEveryoneLinkTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,49 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-21T17:24:37Z" name="Default suite" finished-at="2023-02-21T17:25:14Z" duration-ms="36487">
+  <suite started-at="2023-03-10T08:38:40Z" name="Default suite" finished-at="2023-03-10T08:38:51Z" duration-ms="11579">
     <groups>
     </groups>
-    <test started-at="2023-02-21T17:24:37Z" name="Default test" finished-at="2023-02-21T17:25:14Z" duration-ms="36487">
-      <class name="com.webmath.qa.testcases.HomePageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:24:37Z" name="setUp" finished-at="2023-02-21T17:24:56Z" duration-ms="18789" status="PASS">
+    <test started-at="2023-03-10T08:38:40Z" name="Default test" finished-at="2023-03-10T08:38:51Z" duration-ms="11579">
+      <class name="com.webmath.qa.testcases.K8MathPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webmath.qa.testcases.K8MathPageTest@525575]" started-at="2023-03-10T08:38:40Z" name="setUp" finished-at="2023-03-10T08:38:48Z" duration-ms="8228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:24:56Z" name="verifyHomePageTitleTest" finished-at="2023-02-21T17:24:56Z" duration-ms="24" status="PASS">
+        <test-method signature="powerConversionTest()[pri:3, instance:com.webmath.qa.testcases.K8MathPageTest@525575]" started-at="2023-03-10T08:38:48Z" name="powerConversionTest" finished-at="2023-03-10T08:38:51Z" duration-ms="3143" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyHomePageTitleTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:24:56Z" name="tearDown" finished-at="2023-02-21T17:24:57Z" duration-ms="389" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:24:57Z" name="setUp" finished-at="2023-02-21T17:25:03Z" duration-ms="6332" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="WebMathLogoImageTest()[pri:2, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:03Z" name="WebMathLogoImageTest" finished-at="2023-02-21T17:25:03Z" duration-ms="131" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- WebMathLogoImageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:03Z" name="tearDown" finished-at="2023-02-21T17:25:03Z" duration-ms="226" status="PASS">
+        </test-method> <!-- powerConversionTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webmath.qa.testcases.K8MathPageTest@525575]" started-at="2023-03-10T08:38:51Z" name="tearDown" finished-at="2023-03-10T08:38:51Z" duration-ms="167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:03Z" name="setUp" finished-at="2023-02-21T17:25:09Z" duration-ms="6162" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="simpleInterestTest()[pri:3, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:09Z" name="simpleInterestTest" finished-at="2023-02-21T17:25:13Z" duration-ms="3616" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- simpleInterestTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webmath.qa.testcases.HomePageTest@3549bca9]" started-at="2023-02-21T17:25:13Z" name="tearDown" finished-at="2023-02-21T17:25:14Z" duration-ms="746" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.webmath.qa.testcases.HomePageTest -->
+      </class> <!-- com.webmath.qa.testcases.K8MathPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
